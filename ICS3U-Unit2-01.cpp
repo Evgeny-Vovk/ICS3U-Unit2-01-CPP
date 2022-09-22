@@ -9,7 +9,8 @@
 
 int main() {
     std::cout << "\nThe radius of a circle is 15mm.\n";
-    std::cout << "The area of the circle is " << (M_PI * pow(15 , 2)) << "mm².\n";
+    std::cout << "The area of the circle is "
+    << (M_PI * pow(15 , 2)) << "mm².\n";
     std::cout << "The perimeter of the circle is " << (2 * 15 * M_PI) << "mm.";
 
     std::cout << "\n\nDone.\n";
