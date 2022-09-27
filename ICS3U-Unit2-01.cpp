@@ -2,7 +2,7 @@
 //
 // Created by : Evgeny Vovk
 // Created on : September 2022
-// ICS3U-Unit1-03.cpp File, learning simple math and storyboards in C++
+// ICS3U-Unit2-01.cpp File, learning simple math and storyboards in C++
 
 #include <iostream>
 #include <cmath>
